@@ -15,12 +15,12 @@ EGH445/
 
 ## Assessment Results
 
-| Assessment Component     | Mark Achieved | Total Marks | Percentage |
-| ------------------------ | ------------: | ----------: | ---------: |
-| Demo / Questions         |            15 |          15 |       100% |
-| Code / Functional System |             5 |           5 |       100% |
-| Report                   |          19.1 |          20 |      95.5% |
-| **Total**                |      **39.1** |      **40** | **97.75%** |
+| Assessment Component     | Mark Achieved | Total Marks | Percentage | Class Average |
+| ------------------------ | ------------: | ----------: | ---------: | ------------: |
+| Demo / Questions         |            15 |          15 |       100% |     10.8 / 15 |
+| Code / Functional System |             5 |           5 |       100% |       4.2 / 5 |
+| Report                   |          19.1 |          20 |      95.5% |     14.6 / 20 |
+| **Total**                |      **39.1** |      **40** | **97.75%** | **29.6 / 40** |
 
 ## Overall Grade
 
@@ -29,6 +29,8 @@ EGH445/
 | **Final Mark**                   | **39.1 / 40** |
 | **Overall Percentage**           |    **97.75%** |
 | **Average Component Percentage** |     **98.5%** |
+| **Class Average Total**          | **29.6 / 40** |
+| **Class Average Percentage**     |       **74%** |
 
 ## Assessment Benchmark
 
@@ -43,12 +45,12 @@ The marking team provided class average benchmarks for the assessment components
 
 ## Percentage Benchmark
 
-| Assessment Component     | My Percentage | Class Average |                   Difference |
-| ------------------------ | ------------: | ------------: | ---------------------------: |
-| Demo / Questions         |          100% |           72% |        +28 percentage points |
-| Code / Functional System |          100% |           84% |        +16 percentage points |
-| Report                   |         95.5% |           73% |      +22.5 percentage points |
-| **Overall**              |    **97.75%** |       **74%** | **+23.75 percentage points** |
+| Assessment Component     | My Percentage | Class Average Percentage |                   Difference |
+| ------------------------ | ------------: | -----------------------: | ---------------------------: |
+| Demo / Questions         |          100% |                      72% |        +28 percentage points |
+| Code / Functional System |          100% |                      84% |        +16 percentage points |
+| Report                   |         95.5% |                      73% |      +22.5 percentage points |
+| **Overall**              |    **97.75%** |                  **74%** | **+23.75 percentage points** |
 
 ## Project Components
 
@@ -78,4 +80,5 @@ This repository is intended to:
 **Chabod Masere**
 
 **Bachelor of Engineering, Electrical & Aerospace**
+
 **Master of Robotics and Artificial Intelligence**
