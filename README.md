@@ -28,7 +28,7 @@ EGH445/
 | -------------------------------- | ------------: |
 | **Final Mark**                   | **39.1 / 40** |
 | **Overall Percentage**           |    **97.75%** |
-| **Average Component Percentage** |     **98.5%** |
+
 
 ## Report Benchmark
 
