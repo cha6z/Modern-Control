@@ -15,12 +15,12 @@ EGH445/
 
 ## Assessment Results
 
-| Assessment Component | Mark Achieved | Total Marks | Percentage |
-| -------------------- | ------------: | ----------: | ---------: |
-| Demo                 |            15 |          15 |       100% |
-| Code                 |             5 |           5 |       100% |
-| Report               |          19.1 |          20 |      95.5% |
-| **Total**            |      **39.1** |      **40** | **97.75%** |
+| Assessment Component     | Mark Achieved | Total Marks | Percentage |
+| ------------------------ | ------------: | ----------: | ---------: |
+| Demo / Questions         |            15 |          15 |       100% |
+| Code / Functional System |             5 |           5 |       100% |
+| Report                   |          19.1 |          20 |      95.5% |
+| **Total**                |      **39.1** |      **40** | **97.75%** |
 
 ## Overall Grade
 
@@ -28,19 +28,27 @@ EGH445/
 | -------------------------------- | ------------: |
 | **Final Mark**                   | **39.1 / 40** |
 | **Overall Percentage**           |    **97.75%** |
+| **Average Component Percentage** |     **98.5%** |
 
+## Assessment Benchmark
 
-## Report Benchmark
+The marking team provided class average benchmarks for the assessment components. These benchmarks are included below to contextualise the final result.
 
-The marking team noted that the average report mark was approximately **14.6 / 20**, equivalent to **73%**.
+| Assessment Component     |       My Mark | Class Average | Difference Above Average |
+| ------------------------ | ------------: | ------------: | -----------------------: |
+| Demo / Questions         |       15 / 15 |     10.8 / 15 |               +4.2 marks |
+| Code / Functional System |         5 / 5 |       4.2 / 5 |               +0.8 marks |
+| Report                   |     19.1 / 20 |     14.6 / 20 |               +4.5 marks |
+| **Total**                | **39.1 / 40** | **29.6 / 40** |           **+9.5 marks** |
 
-| Metric                   |       Mark |              Percentage |
-| ------------------------ | ---------: | ----------------------: |
-| Report Mark              |  19.1 / 20 |                   95.5% |
-| Report Average           |  14.6 / 20 |                     73% |
-| Difference Above Average | +4.5 marks | +22.5 percentage points |
+## Percentage Benchmark
 
-The final report achieved **19.1 / 20**, placing it **22.5 percentage points above the reported class average**.
+| Assessment Component     | My Percentage | Class Average |                   Difference |
+| ------------------------ | ------------: | ------------: | ---------------------------: |
+| Demo / Questions         |          100% |           72% |        +28 percentage points |
+| Code / Functional System |          100% |           84% |        +16 percentage points |
+| Report                   |         95.5% |           73% |      +22.5 percentage points |
+| **Overall**              |    **97.75%** |       **74%** | **+23.75 percentage points** |
 
 ## Project Components
 
@@ -70,6 +78,4 @@ This repository is intended to:
 **Chabod Masere**
 
 **Bachelor of Engineering, Electrical & Aerospace**
-
 **Master of Robotics and Artificial Intelligence**
-
