@@ -79,6 +79,10 @@ This repository is intended to:
 
 **Chabod Masere**
 
-🎓 Bachelor of Engineering, Electrical & Aerospace  
-<br>
+## Author
+
+**Chabod Masere**
+
 🎓 Master of Robotics and Artificial Intelligence
+<br>
+🎓 Bachelor of Engineering, Electrical & Aerospace  
