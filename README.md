@@ -54,5 +54,6 @@ This repository is intended to:
 ## Author
 
 **Chabod Masere**
+
 Bachelor of Engineering, Electrical & Aerospace
 Master of Robotics and AI
